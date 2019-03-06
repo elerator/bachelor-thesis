@@ -5,7 +5,7 @@
 
 
 
-This repository contains the programs to select ROIs, decode motion from H.264 files as well as the Scripts and Jupyter notebooks with the analysis of EEGs and movement. It serves the purpose of documentation and does not include the source data (Videos, EEGs and ROIs). For each notebook there is an html-printout.
+This repository contains the programs to select ROIs, decode motion from H.264 files as well as the Scripts and Jupyter notebooks with the analysis of EEGs and movement. It serves the purpose of documentation and does not include the source data (Videos, EEGs and ROIs). Notebooks may be opened directly on this website. For each of them there is an html-printout.
 
 
 - Pyvimo Viewer: 
