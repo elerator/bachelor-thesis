@@ -27,4 +27,5 @@ The analysis of a period with substantial movement that shows correlations of mo
 - Comparison of dense optical flow:
 Qualitative and quantitative investigation of differences and similarities between dense optical flow vectors retrieved using different techniques.
 
+- Movement synchrony: Analysis of differences of movement synchrony between conditions. 
 
