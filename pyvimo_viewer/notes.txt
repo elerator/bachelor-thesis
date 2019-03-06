@@ -1,0 +1,36 @@
+# Use pyuic5 to compile ui into python file
+pyuic5 pyvimo.ui -o view.py
+
+# 
+Compile to standalone
+pyuic5 pyvimo.ui -x -o view.py
+
+#
+
+Where are connections between signals and slots established?
+
+-> In main.py method connect(...)
+
+
+-> In datacontroller.py add_data_display(...)
+
+
+Pyuic
+
+pyuic5 dataview_element.ui -o ui_dataelement.py
+pyuic5 pyvimo.ui -o view.py
+
+Git: Show all files tracked (for commit)
+git ls-files
+
+Git: remove file added for commit (tracked)
+git rm --cached notes.txt
+
+Git: Checkout branch then merge branch
+??
+
+Github fork:
+??
+
+#Compile to a standalone executable
+LD_LIBRARY_PATH=~/miniconda3/lib pyinstaller test.py --onefile
